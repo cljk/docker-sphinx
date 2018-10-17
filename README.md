@@ -1,3 +1,5 @@
+Forked/splitted from 
+[plaindocs/docker-sphinx](https://github.com/plaindocs/docker-sphinx)
 # docker-sphinx
 [Sphinx](http://sphinx-doc.org/) documentation toolchain, latex dependencies and [pandoc](http://johnmacfarlane.net/pandoc) in an Ubuntu docker container.
 
@@ -7,6 +9,7 @@
 * texlive-latex-recommended 
 * texlive-latex-extra 
 * texlive-lang-european 
+* texlive-lang-german
 * texlive-fonts-recommended 
 * pandoc
 * build-essential
